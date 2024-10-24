@@ -1,0 +1,49 @@
+name: frances.walsh
+description: Persistent
+version: 0.0.1
+author: aegfx09s.i2aikwre@wjearssk.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: franceswalsh
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:26:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:26:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:26:03.556395Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '1949304368'
+  createdAt: '2024-10-24T20:26:03.556395Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
